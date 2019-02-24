@@ -1,0 +1,4 @@
+{"logType":"1","productName":"用户登录","handle_person":"用户名：liucong","action":"登陆成功","detail":"正常登录","handle_date":"2018-11-16 14:10:01","level":"INFO"}
+{"logType":"1","productName":"用户登录","handle_person":"用户名：admin","action":"登陆成功","detail":"正常登录","handle_date":"2018-11-16 17:38:45","level":"INFO"}
+{"logType":"1","productName":"用户登录","handle_person":"用户名：admin","action":"登陆成功","detail":"正常登录","handle_date":"2018-11-20 09:45:44","level":"INFO"}
+{"logType":"1","productName":"用户登录","handle_person":"用户名：liucong","action":"登陆成功","detail":"正常登录","handle_date":"2018-12-14 13:37:40","level":"INFO"}

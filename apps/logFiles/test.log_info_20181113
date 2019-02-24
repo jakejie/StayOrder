@@ -1,0 +1,270 @@
+{"logType":"1","productName":"爬虫系统","handle_person":"爬虫主函数","action":"未知错误","detail":"list index out of range","handle_date":"2018-11-13 22:03:53","level":"INFO"}
+{"logType":"1","productName":"爬虫系统","handle_person":"爬虫主函数","action":"未知错误","detail":"list index out of range","handle_date":"2018-11-13 22:03:57","level":"INFO"}
+{"logType":"1","productName":"爬虫系统","handle_person":"爬虫主函数","action":"未知错误","detail":"list index out of range","handle_date":"2018-11-13 22:16:56","level":"INFO"}
+{"logType":"1","productName":"爬虫系统","handle_person":"爬虫主函数","action":"未知错误","detail":"list index out of range","handle_date":"2018-11-13 22:17:01","level":"INFO"}
+{"logType":"1","productName":"爬虫系统","handle_person":"爬虫主函数","action":"未知错误","detail":"list index out of range","handle_date":"2018-11-13 22:17:06","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=ident","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))","handle_date":"2018-11-13 22:56:03","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out.","handle_date":"2018-11-13 22:57:27","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=ident","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))","handle_date":"2018-11-13 22:58:36","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out.","handle_date":"2018-11-13 23:00:57","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))","handle_date":"2018-11-13 23:17:16","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))","handle_date":"2018-11-13 23:49:40","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 00:08:07","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 00:10:17","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out.","handle_date":"2018-11-14 00:13:00","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out.","handle_date":"2018-11-14 00:14:41","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))","handle_date":"2018-11-14 00:15:31","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 00:16:53","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))","handle_date":"2018-11-14 00:17:15","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=ident","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out.","handle_date":"2018-11-14 00:19:10","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))","handle_date":"2018-11-14 00:19:25","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=ident","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))","handle_date":"2018-11-14 00:20:06","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))","handle_date":"2018-11-14 00:20:21","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 00:21:26","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=ident","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 00:23:19","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 00:24:50","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=ident","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out.","handle_date":"2018-11-14 00:26:36","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))","handle_date":"2018-11-14 00:28:34","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out.","handle_date":"2018-11-14 00:31:28","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 00:32:34","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 00:33:43","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))","handle_date":"2018-11-14 00:36:07","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=ident","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out.","handle_date":"2018-11-14 00:37:50","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=ident","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out.","handle_date":"2018-11-14 00:39:10","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=ident","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))","handle_date":"2018-11-14 00:40:11","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 00:41:35","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 00:44:25","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))","handle_date":"2018-11-14 00:44:52","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 00:46:06","level":"INFO"}
+{"logType":"1","productName":"爬虫系统","handle_person":"爬虫主函数","action":"未知错误","detail":"list index out of range","handle_date":"2018-11-14 01:32:31","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 02:16:49","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 02:19:16","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 03:39:25","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 03:40:30","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 03:57:43","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 03:59:50","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:01:12","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:02:23","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:05:35","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:07:48","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=ident","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))","handle_date":"2018-11-14 04:08:59","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=ident","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:10:06","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:11:58","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:13:22","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:14:37","level":"INFO"}
+{"logType":"1","productName":"爬虫系统","handle_person":"爬虫主函数","action":"未知错误","detail":"list index out of range","handle_date":"2018-11-14 04:14:50","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:16:02","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:20:04","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:21:28","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:22:38","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:26:07","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:27:35","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:29:22","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:31:17","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:33:00","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:36:02","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:37:44","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:41:01","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:44:04","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:46:32","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:47:37","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:51:04","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:54:53","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:57:12","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 04:58:46","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 05:00:50","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 05:03:43","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 05:05:25","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 05:07:16","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 05:09:23","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))","handle_date":"2018-11-14 05:15:00","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 05:18:19","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 05:20:19","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 05:23:16","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 05:26:21","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 05:33:03","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 05:34:14","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 09:14:58","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 10:10:30","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 10:36:42","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 12:21:36","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 12:24:30","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 12:25:40","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 14:18:30","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 14:55:33","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out. (read timeout=60)","handle_date":"2018-11-14 17:16:22","level":"INFO"}
+{"logType":"1","productName":"爬虫系统","handle_person":"爬虫主函数","action":"未知错误","detail":"list index out of range","handle_date":"2018-11-14 17:29:40","level":"INFO"}
+{"logType":"1","productName":"爬虫系统","handle_person":"预约失败","action":"未知错误","detail":"页面代码：<br>TRACE : SQLSTATE[08006] [7] timeout expired<br>TRACE : #0 /ERVE/www/ppol_rdve_1.3.4/application/libraries/framework/pdo.php(71): PDO->__construct('pgsql: host=10....', 'erve', 'erve')
+#1 /ERVE/www/ppol_rdve_1.3.4/application/libraries/framework/pdo.php(96): PHP4PDO::createPdoInstance()
+#2 /ERVE/www/ppol_rdve_1.3.4/application/libraries/framework/pdo.php(110): PHP4PDO->getPdoInstance()
+#3 /ERVE/www/ppol_rdve_1.3.4/application/classes/config.php(23): PHP4PDO->query('SELECT * FROM "...')
+#4 /ERVE/www/ppol_rdve_1.3.4/application/classes/appconfig.php(21): Config->readParameter('app_version')
+#5 /ERVE/www/ppol_rdve_1.3.4/index.php(35): AppConfig->readParameters()
+#6 {main}","handle_date":"2018-11-14 18:55:09","level":"INFO"}
+{"logType":"1","productName":"爬虫系统","handle_person":"预约失败","action":"未知错误","detail":"页面代码：<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+	<meta charset="utf-8">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="Service en ligne de la préfecture de police" />
+	<meta name="author" content="Préfecture de police" />
+	<meta name="keywords" content="démarches, services en ligne" />
+	<link href="public/charte/bootstrap/css/bootstrap.css" rel="stylesheet" />
+	<link href="public/charte/doc.css" rel="stylesheet" />
+	<link href="public/charte/kit.css" rel="stylesheet" />
+	<link href="public/charte/header.css" rel="stylesheet" />
+	<link href="public/charte/footer.css" rel="stylesheet" />
+	<link href="public/charte/prettify/prettify.css" rel="stylesheet" />
+	<link href="public/charte/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" />
+	<link rel="shortcut icon" href="public/charte/images/favicon.ico" type="image/png" />
+	<link rel="icon" href="public/charte/images/favicon.ico" type="image/png" />
+	<link rel="stylesheet" type="text/css" href="public/styles/styles.css" />
+	<script language="javascript" src="public/scripts/templates.js"></script>
+
+	<title>Site Internet de la Préfecture de Police</title>	<script language="javascript">
+
+		document.onkeypress = function(keyStroke)
+		{
+			var isNetscape = (document.getElementById && !document.all);
+			var eventChooser = (isNetscape) ? keyStroke.which : event.keyCode;
+			if (eventChooser == 13) form_login.submit();
+		}
+		
+		window.onload = function()
+		{
+			var input = document.getElementById("nom");
+			input.focus();
+		}
+		
+	</script>
+</head>
+<body>
+	
+	<div id="header" class="img-polaroid">
+		<div class="logo">
+			<a href="http://www.prefecturedepolice.interieur.gouv.fr/">
+			<img src="public/charte/images/logo-pp.png" title="logo" />
+			</a>
+		</div>
+		<div class="titre">
+			<h1 id="pp">Préfecture de police</h1>
+			<h2 id="pp_desc">Services en ligne</h2>
+		</div>
+	</div>
+	
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="container">
+				<ul class="nav">
+					<li>
+						<a href="http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier/Ressortissants-etrangers/Titre-de-sejour">Démarches > Particulier > Ressortissants étrangers > Titre de séjour</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="content">
+		<h1></h1>
+		<div class="application rdvetrangers">
+			<div id="erreurs" align="center"><table class="simple" cellpadding="3">
+<tr>
+	<td class="simple"><img src="public/images/attention_tiny.png"/></td>
+	<td class="simple red" valign="middle">Erreur, motif non defini</td>
+</tr>
+</table>
+</div>
+			<a id="formlogin"></a>
+			<form class="form-horizontal" name="form_login" action="?page=ident" method="post">
+				<fieldset>
+					<legend>Identification : veuillez saisir les informations suivantes :</legend>
+					<div class="control-group">
+						<label class="control-label " for="nom">Nom</label>
+						<div class="controls">
+							<input class="span4" type="text" id="nom" name="nom" placeholder="Nom" value="" maxlength="40" required/>
+													</div>
+					</div>
+					<div class="control-group">
+						<label class="control-label" for="prenom">Prénom</label>
+						<div class="controls">
+							<input class="span4" type="text" id="prenom" name="prenom" placeholder="Prénom" value="" maxlength="40" required/>
+													</div>
+					</div>
+					<div class="control-group">
+						<label class="control-label" for="agdref">N° de votre titre de séjour</label>
+						<div class="controls">
+							<input class="span2" type="text" id="agdref" name="agdref" placeholder="N° titre de séjour" value="" maxlength="20" required/>
+													</div>
+						<div class="controls">
+							<a href="#outrouvervotrenumero">où trouver votre numéro de titre</a>
+						</div>
+					</div>
+					<div class="control-group">
+						<label class="control-label" for="naissance">Date de naissance</label>
+						<div class="controls">
+							<input class="span2" type="text" id="naissance" name="naissance" maxlength="10" value="" placeholder="jj/mm/aaaa" required/>
+													</div>
+					</div>
+					<div class="control-group">
+						<label class="control-label" for="validite">Date d'expiration du titre de séjour</label>
+						<div class="controls">
+							<input class="span2" type="text" id="validite" name="validite" size="10" maxlength="10" value="" placeholder="jj/mm/aaaa" required>
+													</div>
+					</div>
+					<div class="control-group">
+						<div class="controls">
+							<button type="submit" class="btn btn-primary">Valider</button>
+						</div>
+					</div>
+				</fieldset>
+			</form>
+		</div>
+		<a id="outrouvervotrenumero"></a>
+		<fieldset>
+			<legend>Où trouver votre numéro de titre de séjour</legend>
+			<div class="infosagdref"><img src="public/images/infos_agdref.jpg"></div>
+			<div><a href="#formlogin">Retour à l'identification</a></div>
+		</fieldset>
+		<fieldset>
+			<legend>Informations CNIL</legend>
+			<div class="infoscnil"><p>Les informations recueillies au cours de cette procédure visant à l'obtention d 'un rendez-vous concernant une demande de titre de séjour ou de document de voyage sont à l'usage
+exclusif de la préfecture de police et font l'objet d'un traitement informatique. Conformément à la loi "informatique et libertés" du 6 janvier 1978 modifiée en 2004,
+vous disposez d'un droit d'accès et de rectification aux informations qui vous concernent que vous pouvez exercer en vous adressant à : Préfecture de police,
+direction de la police générale, 75195 - Paris Cedex 04.
+</p></div>
+		</fieldset>
+	</div>
+	
+	<div class="footer">
+		<div class="row-fluid">
+			<div class="span6">
+				<p>Nous rejoindre : </p>
+				<ul class="sociaux">
+					<li>
+						<a href="http://www.facebook.com/prefecturedepolice"/>
+							<img src="public/charte/images/Facebook_icon-logo.png" title="facebook" />
+						</a>
+					</li>
+					<li>
+						<a href="https://twitter.com/prefpolice">
+							<img src="public/charte/images/Twitter_icon-logo.png" title="twitter" />
+						</a>
+					</li>
+					<li>
+						<a href="https://plus.google.com/u/0/113288503534600843327/posts">
+							<img src="public/charte/images/Google-plus_icon-logo.png" title="google+" />
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="span6">
+				<p>
+					<a href="http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier/Ressortissants-etrangers/Titre-de-sejour">Démarches > Particulier > Ressortissants étrangers > Titre de séjour</a>
+				</p>
+			</div>
+		</div>
+	</div>
+</body>
+<pre></pre>","handle_date":"2018-11-14 18:55:41","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))","handle_date":"2018-11-14 19:57:08","level":"INFO"}
+{"logType":"1","productName":"爬虫网络请求","handle_person":"请求地址：https://www.ppoletrangers.interieur.gouv.fr/?page=rdv+post","action":"不使用代理请求","detail":"ERROR:HTTPSConnectionPool(host='www.ppoletrangers.interieur.gouv.fr', port=443): Read timed out.","handle_date":"2018-11-14 20:08:10","level":"INFO"}

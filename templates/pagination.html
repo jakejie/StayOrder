@@ -1,0 +1,28 @@
+<!--分页---->
+<div class="pagination col-md-6 col-md-offset-3" style="text-align: center">
+    <div class="list-page">
+        <ul class="post-data" style="text-align: center">
+            <li><a>第 {{ contacts.number }} 页 总 {{ contacts.paginator.num_pages }} 页</a>
+                <a>共 {{ count }} 条</a></li>
+        </ul>
+    </div>
+    <ul>
+        {##}
+        <li {% if contacts.has_previous %}{% else %}class="active"{% endif %}>
+            <a {% if contacts.has_previous %}
+                href="?page=1"
+            {% endif %} >首页</a></li>
+        {% if contacts.has_previous %}
+            <li {% if contacts.has_previous %} {% else %} class="active"{% endif %}>
+                <a href="?page={{ contacts.previous_page_number }}">上一页</a></li>
+        {% endif %}
+        {% if contacts.has_next %}
+            <li {% if contacts.has_next %}{% else %}class="active" {% endif %}>
+                <a href="?page={{ contacts.next_page_number }}">下一页</a></li>
+        {% endif %}
+        <li {% if contacts.has_next %}{% else %}class="active"{% endif %}>
+            <a {% if contacts.has_next %}
+                href="?page={{ contacts.paginator.num_pages }}
+            {% endif %}">尾页</a></li>
+    </ul>
+</div>

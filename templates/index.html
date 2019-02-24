@@ -1,0 +1,105 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    RDV Paris
+{% endblock %}
+
+{% block content %}
+
+    <!-- Start Sign In Form -->
+    <form action="{% url 'index' %}" method="post" class="fh5co-form animate-box" data-animate-effect="fadeIn">
+        <div class="text-right">
+            <a href="{% url 'history' %}">查看提交历史</a>
+            <a href="{% url 'logout' %}">退出登陆</a>
+        </div>
+        <h2 align="center">提交信息</h2>
+
+        <div class="form-group">
+            <div class="alert alert-success" role="alert">显示一条通知消息！{{ msg }}</div>
+            {% if msg %}
+                <div class="alert alert-success" role="alert">{{ msg }}</div>
+            {% endif %}
+        </div>
+        <div class="form-group">
+            <label for="name" class="sr-only">姓</label>
+            <input type="text" name="name" class="form-control" id="name" placeholder="请输入姓"
+                   autocomplete="off">
+        </div>
+
+        <div class="form-group">
+            <label for="name" class="sr-only">名</label>
+            <input type="text" name="username" class="form-control" id="username" placeholder="请输入名"
+                   autocomplete="off">
+        </div>
+
+        <div class="form-group">
+            <p style="margin-left: 5px;color: red">出生日期</p>
+            <label for="password" class="sr-only">出生日期</label>
+            <input type="date" name="birthday_date" class="form-control" id="birthday_date" placeholder="请输入出生日期"
+                   autocomplete="off">
+        </div>
+
+        <div class="form-group">
+            <label for="password" class="sr-only">居留许可证号码</label>
+            <input type="text" name="stay_num" class="form-control" id="stay_num" placeholder="请输入居留许可证号码"
+                   autocomplete="off">
+        </div>
+
+        <div class="form-group">
+            <p style="margin-left: 5px;color: red">居留许可到期时间</p>
+            <label for="password" class="sr-only">居留许可到期时间</label>
+            <input type="date" name="stay_end_date" class="form-control" id="stay_end_date" placeholder="请输入居留许可到期时间"
+                   autocomplete="off">
+        </div>
+
+        <div class="form-group">
+            <label for="password" class="sr-only">区</label>
+            <select class="form-control" name="town">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+                <option value="11">11</option>
+                <option value="12">12</option>
+                <option value="13">13</option>
+                <option value="14">14</option>
+                <option value="15">15</option>
+                <option value="16">16</option>
+                <option value="17">17</option>
+                <option value="18">18</option>
+                <option value="19">19</option>
+                <option value="20">20</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <p style="margin-left: 5px;color: red">开始时间</p>
+            <label for="end_date" class="sr-only">开始时间</label>
+            <input type="date" name="start_date" class="form-control" id="start_date" placeholder="请输入开始时间 例：2018-08-10"
+                   autocomplete="off">
+        </div>
+        <div class="form-group">
+            <p style="margin-left: 5px;color: red">结束时间</p>
+            <label for="end_date" class="sr-only">结束时间</label>
+            <input type="date" name="end_date" class="form-control" id="end_date" placeholder="请输入结束时间 例：2018-08-10"
+                   autocomplete="off">
+        </div>
+        <div class="form-group">
+            <label for="email" class="sr-only">Email</label>
+            <input type="email" name="email" class="form-control" id="email" placeholder="请输入接收预约结果的邮箱(选填)"
+                   autocomplete="off">
+        </div>
+        <div>{{ msg }}</div>
+        <div class="form-group" align="center">
+            <input type="submit" value="提交" class="btn btn-primary">
+        </div>
+        {% csrf_token %}
+    </form>
+    <!-- END Sign In Form -->
+{% endblock %}

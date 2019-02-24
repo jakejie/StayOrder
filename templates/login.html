@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+
+{% block title %}
+    RDV Paris 登录
+{% endblock %}
+
+{% block content %}
+    <!-- Start Sign In Form -->
+    <div class="col-md-8 col-md-offset-2">
+        <form action="{% url 'login' %}" class="fh5co-form animate-box" data-animate-effect="fadeIn" method="post">
+            <h2>登录</h2>
+            <div class="form-group">
+                <label for="username" class="sr-only">Username</label>
+                <input type="text" name="username" class="form-control" id="username" placeholder="请输入账号"
+                       autocomplete="off">
+            </div>
+            <div class="form-group">
+                <label for="password" class="sr-only">Password</label>
+                <input type="password" name="password" class="form-control" id="password" placeholder="请输入密码"
+                       autocomplete="off">
+            </div>
+            {#        <div class="form-group">#}
+            {#            <label for="remember"><input type="checkbox" id="remember"> 记住我</label>#}
+            {#        </div>#}
+            <div>{{ msg }}</div>
+            <div class="form-group" align="center">
+                <input type="submit" value="登录" class="btn btn-primary">
+            </div>
+            {% csrf_token %}
+        </form>
+        <!-- END Sign In Form -->
+    </div>
+{% endblock %}
+

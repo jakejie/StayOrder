@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+
+{% block title %}
+    RDV Paris 提交成功
+{% endblock %}
+{% block content %}
+
+    <!-- Start Sign In Form -->
+    <div class="fh5co-form animate-box" data-animate-effect="fadeIn">
+        <h2>信息已提交，预约成功将会把预约几个发送到您的邮箱，如有问题请联系管理员</h2>
+        <div class="form-group">
+            <p>
+                <a href="{% url 'index' %}">再次提交</a> or
+                <a href="{% url 'logout' %}">退出登录</a></p>
+        </div>
+    </div>
+    <!-- END Sign In Form -->
+{% endblock %}

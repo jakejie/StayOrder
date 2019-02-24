@@ -1,0 +1,73 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    RDV Paris
+{% endblock %}
+
+{% block content %}
+    <!-- Start Sign In Form -->
+    <div class="fh5co-form animate-box" data-animate-effect="fadeIn">
+        <h2>历史记录如下</h2>
+        <a href="{% url 'logout' %}">退出登录</a>
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th style="width: 50px">序号</th>
+                    <th>姓氏</th>
+                    <th>名字</th>
+                    <th>居留许可证号码</th>
+                    <th>出生日期</th>
+                    <th>居留许可到期时间</th>
+                    <th>区</th>
+                    <th>数据创建时间</th>
+                    <th>开始时间</th>
+                    <th>结束时间</th>
+                    <th>预约状态</th>
+                    <th>可居留时间</th>
+                    <th>备注</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for data in contacts %}
+                <tr>
+                    <td>{{ forloop.counter }}</td>
+                    <td>{{ data.name }}</td>
+                    <td>{{ data.username }}</td>
+                    <td>{{ data.stay_num }}</td>
+                    <td>{{ data.birthday_date }}</td>
+                    <td>{{ data.stay_end_date }}</td>
+                    <td>{{ data.town }}</td>
+                    <td>{{ data.add_time }}</td>
+                    <td>{{ data.start_date }}</td>
+                    <td>{{ data.end_date }}</td>
+                    <td>
+                        {% if data.order_status == '2' %}
+                            预约失败
+                        {% elif data.order_status == '1' %}
+                            预约成功
+                        {% elif data.order_status == '0' %}
+                            预约中
+                        {% else %}
+                            未知异常
+                        {% endif %}
+                    </td>
+                    <td>{{ data.stay_date }}</td>
+                    <td>{{ data.recommend }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+
+        <div class="form-group">
+            {% include 'pagination.html' %}
+        </div>
+
+        <button type="button" class="btn btn-default" aria-label="Left Align">
+
+            <a href="{% url 'index' %}">
+                <img src="{% static 'images/left.png' %}" alt="返回"/>返回</a>
+        </button>
+
+    </div>
+{% endblock %}
